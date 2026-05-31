@@ -23,10 +23,6 @@ Hi, I'm **Shravani Kothawade**, an Information Technology Engineering student wi
 - Google Fonts
 - Responsive Design Principles
 
-## 🚀 Live Website
-
-https://shravani3106.github.io/resume/
-
 ## 📂 Repository
 
 This repository contains the source code for my personal portfolio website.
@@ -36,8 +32,8 @@ This repository contains the source code for my personal portfolio website.
 **Shravani Kothawade**
 
 - GitHub: https://github.com/shravani3106
-- LinkedIn: www.linkedin.com/in/shravanikothawade
-- Email: shravanikothawade@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shravani-kothawade-a28b42310?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: shravanik76@gmail.com
 
 ## ⭐ Support
 
